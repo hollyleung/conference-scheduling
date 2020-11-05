@@ -1,1 +1,4 @@
-# conference-scheduling
+# In this project, you are asked to develop the conference schedule that maximizes the value of a conference (i.e., allows participants to maximally benefit from participating) as much as possible, with an optimization approach. Specifically, you can assume that each participant provides a list of preferred talks, and your goal is to first, develop a schedule that avoid conflicts and maximize total attendance as much as possible; and second, minimize session hopping, which means you don't want your participants move a lot between several sessions to satisfy his need.
+
+# You should apply your approach to 2 different conferences with different number of sessions and compare  the  results.  The  participants'  profiles  of  four  conferences  (MathSport  International (2013), MAPSP (2015 and 2017), and ORBEL (2017)) are provided to you and you are free to choose any two of them. Note that some of them are more focused on specific topics while others cover a wide variety of topics.Some hints are provided.
+
